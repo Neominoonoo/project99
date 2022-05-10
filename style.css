@@ -1,0 +1,38 @@
+.h4red{
+    color: red;
+    font-weight: bold;
+}
+body{
+    background-image: url("background.png");
+    background-position: center;
+    background-size: cover;
+}
+#div1{
+    background-color: cornsilk;
+    border-radius: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+#div2{
+    background-color: cornsilk;
+    border-radius: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+a{
+    background-color: cornsilk;
+    color: black;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+#div{
+    background-color: cornsilk;
+    padding-top: 20px;
+}
